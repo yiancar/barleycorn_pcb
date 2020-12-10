@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name USB4085-GF-A_REVA)(type Legacy)(uri ${KIPRJMOD}/libraries/USB4085-GF-A_REVA.pretty/USB4085-GF-A_REVA.lib)(options "")(descr ""))
+)
