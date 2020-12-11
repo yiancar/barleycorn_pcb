@@ -22,7 +22,7 @@ F 1 "SW_Push" H 6900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 6900 1825 50  0001 C CNN
 F 3 "" H 6900 1825 50  0001 C CNN
 	1    6900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D5
@@ -33,7 +33,7 @@ F 1 "1N4148" V 7050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7100 1825 50  0001 C CNN
 F 3 "~" V 7100 1825 50  0001 C CNN
 	1    7100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7100 1625 7100 1725
@@ -46,7 +46,7 @@ F 1 "SW_Push" H 6900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 6900 2525 50  0001 C CNN
 F 3 "" H 6900 2525 50  0001 C CNN
 	1    6900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D4
@@ -57,7 +57,7 @@ F 1 "1N4148" V 7050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7100 2525 50  0001 C CNN
 F 3 "~" V 7100 2525 50  0001 C CNN
 	1    7100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7100 2325 7100 2425
@@ -70,7 +70,7 @@ F 1 "SW_Push" H 6875 2950 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.75U-NoLED" H 6900 3225 50  0001 C CNN
 F 3 "" H 6900 3225 50  0001 C CNN
 	1    6900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D3
@@ -81,7 +81,7 @@ F 1 "1N4148" V 7050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7100 3225 50  0001 C CNN
 F 3 "~" V 7100 3225 50  0001 C CNN
 	1    7100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7100 3025 7100 3125
@@ -94,7 +94,7 @@ F 1 "SW_Push" H 6900 3675 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-2.25U-NoLED" H 6900 3925 50  0001 C CNN
 F 3 "" H 6900 3925 50  0001 C CNN
 	1    6900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D2
@@ -105,7 +105,7 @@ F 1 "1N4148" V 7050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7100 3925 50  0001 C CNN
 F 3 "~" V 7100 3925 50  0001 C CNN
 	1    7100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7100 3725 7100 3825
@@ -129,7 +129,7 @@ F 1 "SW_Push" H 7400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7400 1825 50  0001 C CNN
 F 3 "" H 7400 1825 50  0001 C CNN
 	1    7400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D10
@@ -140,7 +140,7 @@ F 1 "1N4148" V 7550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 1825 50  0001 C CNN
 F 3 "~" V 7600 1825 50  0001 C CNN
 	1    7600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7600 1625 7600 1725
@@ -153,7 +153,7 @@ F 1 "SW_Push" H 7400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7400 2525 50  0001 C CNN
 F 3 "" H 7400 2525 50  0001 C CNN
 	1    7400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D9
@@ -164,7 +164,7 @@ F 1 "1N4148" V 7550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 2525 50  0001 C CNN
 F 3 "~" V 7600 2525 50  0001 C CNN
 	1    7600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7600 2325 7600 2425
@@ -177,7 +177,7 @@ F 1 "SW_Push" H 7400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7400 3225 50  0001 C CNN
 F 3 "" H 7400 3225 50  0001 C CNN
 	1    7400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D8
@@ -188,7 +188,7 @@ F 1 "1N4148" V 7550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 3225 50  0001 C CNN
 F 3 "~" V 7600 3225 50  0001 C CNN
 	1    7600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7600 3025 7600 3125
@@ -201,7 +201,7 @@ F 1 "SW_Push" H 7400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7400 3925 50  0001 C CNN
 F 3 "" H 7400 3925 50  0001 C CNN
 	1    7400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D7
@@ -212,7 +212,7 @@ F 1 "1N4148" V 7550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 3925 50  0001 C CNN
 F 3 "~" V 7600 3925 50  0001 C CNN
 	1    7600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7600 3725 7600 3825
@@ -236,7 +236,7 @@ F 1 "SW_Push" H 7900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7900 1825 50  0001 C CNN
 F 3 "" H 7900 1825 50  0001 C CNN
 	1    7900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D15
@@ -247,7 +247,7 @@ F 1 "1N4148" V 8050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8100 1825 50  0001 C CNN
 F 3 "~" V 8100 1825 50  0001 C CNN
 	1    8100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8100 1625 8100 1725
@@ -260,7 +260,7 @@ F 1 "SW_Push" H 7900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7900 2525 50  0001 C CNN
 F 3 "" H 7900 2525 50  0001 C CNN
 	1    7900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D14
@@ -271,7 +271,7 @@ F 1 "1N4148" V 8050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8100 2525 50  0001 C CNN
 F 3 "~" V 8100 2525 50  0001 C CNN
 	1    8100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8100 2325 8100 2425
@@ -284,7 +284,7 @@ F 1 "SW_Push" H 7900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7900 3225 50  0001 C CNN
 F 3 "" H 7900 3225 50  0001 C CNN
 	1    7900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D13
@@ -295,7 +295,7 @@ F 1 "1N4148" V 8050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8100 3225 50  0001 C CNN
 F 3 "~" V 8100 3225 50  0001 C CNN
 	1    8100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8100 3025 8100 3125
@@ -308,7 +308,7 @@ F 1 "SW_Push" H 7900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 7900 3925 50  0001 C CNN
 F 3 "" H 7900 3925 50  0001 C CNN
 	1    7900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D12
@@ -319,7 +319,7 @@ F 1 "1N4148" V 8050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8100 3925 50  0001 C CNN
 F 3 "~" V 8100 3925 50  0001 C CNN
 	1    8100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8100 3725 8100 3825
@@ -343,7 +343,7 @@ F 1 "SW_Push" H 8400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8400 1825 50  0001 C CNN
 F 3 "" H 8400 1825 50  0001 C CNN
 	1    8400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D19
@@ -354,7 +354,7 @@ F 1 "1N4148" V 8550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8600 1825 50  0001 C CNN
 F 3 "~" V 8600 1825 50  0001 C CNN
 	1    8600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8600 1625 8600 1725
@@ -367,7 +367,7 @@ F 1 "SW_Push" H 8400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8400 2525 50  0001 C CNN
 F 3 "" H 8400 2525 50  0001 C CNN
 	1    8400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D18
@@ -378,7 +378,7 @@ F 1 "1N4148" V 8550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8600 2525 50  0001 C CNN
 F 3 "~" V 8600 2525 50  0001 C CNN
 	1    8600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8600 2325 8600 2425
@@ -391,7 +391,7 @@ F 1 "SW_Push" H 8400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8400 3225 50  0001 C CNN
 F 3 "" H 8400 3225 50  0001 C CNN
 	1    8400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D17
@@ -402,7 +402,7 @@ F 1 "1N4148" V 8550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8600 3225 50  0001 C CNN
 F 3 "~" V 8600 3225 50  0001 C CNN
 	1    8600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8600 3025 8600 3125
@@ -415,7 +415,7 @@ F 1 "SW_Push" H 8400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8400 3925 50  0001 C CNN
 F 3 "" H 8400 3925 50  0001 C CNN
 	1    8400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D16
@@ -426,7 +426,7 @@ F 1 "1N4148" V 8550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8600 3925 50  0001 C CNN
 F 3 "~" V 8600 3925 50  0001 C CNN
 	1    8600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8600 3725 8600 3825
@@ -450,7 +450,7 @@ F 1 "SW_Push" H 8900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8900 1825 50  0001 C CNN
 F 3 "" H 8900 1825 50  0001 C CNN
 	1    8900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D23
@@ -461,7 +461,7 @@ F 1 "1N4148" V 9050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9100 1825 50  0001 C CNN
 F 3 "~" V 9100 1825 50  0001 C CNN
 	1    9100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9100 1625 9100 1725
@@ -474,7 +474,7 @@ F 1 "SW_Push" H 8900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8900 2525 50  0001 C CNN
 F 3 "" H 8900 2525 50  0001 C CNN
 	1    8900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D22
@@ -485,7 +485,7 @@ F 1 "1N4148" V 9050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9100 2525 50  0001 C CNN
 F 3 "~" V 9100 2525 50  0001 C CNN
 	1    9100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9100 2325 9100 2425
@@ -498,7 +498,7 @@ F 1 "SW_Push" H 8900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8900 3225 50  0001 C CNN
 F 3 "" H 8900 3225 50  0001 C CNN
 	1    8900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D21
@@ -509,7 +509,7 @@ F 1 "1N4148" V 9050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9100 3225 50  0001 C CNN
 F 3 "~" V 9100 3225 50  0001 C CNN
 	1    9100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9100 3025 9100 3125
@@ -522,7 +522,7 @@ F 1 "SW_Push" H 8900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 8900 3925 50  0001 C CNN
 F 3 "" H 8900 3925 50  0001 C CNN
 	1    8900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D20
@@ -533,7 +533,7 @@ F 1 "1N4148" V 9050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9100 3925 50  0001 C CNN
 F 3 "~" V 9100 3925 50  0001 C CNN
 	1    9100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9100 3725 9100 3825
@@ -557,7 +557,7 @@ F 1 "SW_Push" H 9400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9400 1825 50  0001 C CNN
 F 3 "" H 9400 1825 50  0001 C CNN
 	1    9400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D27
@@ -568,7 +568,7 @@ F 1 "1N4148" V 9550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9600 1825 50  0001 C CNN
 F 3 "~" V 9600 1825 50  0001 C CNN
 	1    9600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9600 1625 9600 1725
@@ -581,7 +581,7 @@ F 1 "SW_Push" H 9400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9400 2525 50  0001 C CNN
 F 3 "" H 9400 2525 50  0001 C CNN
 	1    9400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D26
@@ -592,7 +592,7 @@ F 1 "1N4148" V 9550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9600 2525 50  0001 C CNN
 F 3 "~" V 9600 2525 50  0001 C CNN
 	1    9600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9600 2325 9600 2425
@@ -605,7 +605,7 @@ F 1 "SW_Push" H 9400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9400 3225 50  0001 C CNN
 F 3 "" H 9400 3225 50  0001 C CNN
 	1    9400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D25
@@ -616,7 +616,7 @@ F 1 "1N4148" V 9550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9600 3225 50  0001 C CNN
 F 3 "~" V 9600 3225 50  0001 C CNN
 	1    9600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	9600 3025 9600 3125
@@ -629,7 +629,7 @@ F 1 "SW_Push" H 9400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9400 3925 50  0001 C CNN
 F 3 "" H 9400 3925 50  0001 C CNN
 	1    9400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D24
@@ -640,7 +640,7 @@ F 1 "1N4148" V 9550 3525 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 9600 3925 50  0001 C CNN
 F 3 "~" V 9600 3925 50  0001 C CNN
 	1    9600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Connection ~ 9200 1625
 Wire Wire Line
@@ -660,7 +660,7 @@ F 1 "SW_Push" H 9900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9900 1825 50  0001 C CNN
 F 3 "" H 9900 1825 50  0001 C CNN
 	1    9900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D32
@@ -671,7 +671,7 @@ F 1 "1N4148" V 10050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10100 1825 50  0001 C CNN
 F 3 "~" V 10100 1825 50  0001 C CNN
 	1    10100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10100 1625 10100 1725
@@ -684,7 +684,7 @@ F 1 "SW_Push" H 9900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9900 2525 50  0001 C CNN
 F 3 "" H 9900 2525 50  0001 C CNN
 	1    9900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D31
@@ -695,7 +695,7 @@ F 1 "1N4148" V 10050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10100 2525 50  0001 C CNN
 F 3 "~" V 10100 2525 50  0001 C CNN
 	1    10100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10100 2325 10100 2425
@@ -708,7 +708,7 @@ F 1 "SW_Push" H 9900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9900 3225 50  0001 C CNN
 F 3 "" H 9900 3225 50  0001 C CNN
 	1    9900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D30
@@ -719,7 +719,7 @@ F 1 "1N4148" V 10050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10100 3225 50  0001 C CNN
 F 3 "~" V 10100 3225 50  0001 C CNN
 	1    10100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10100 3025 10100 3125
@@ -732,7 +732,7 @@ F 1 "SW_Push" H 9900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 9900 3925 50  0001 C CNN
 F 3 "" H 9900 3925 50  0001 C CNN
 	1    9900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D29
@@ -743,7 +743,7 @@ F 1 "1N4148" V 10050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10100 3925 50  0001 C CNN
 F 3 "~" V 10100 3925 50  0001 C CNN
 	1    10100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10100 3725 10100 3825
@@ -765,7 +765,7 @@ F 1 "SW_Push" H 10400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10400 1825 50  0001 C CNN
 F 3 "" H 10400 1825 50  0001 C CNN
 	1    10400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D36
@@ -776,7 +776,7 @@ F 1 "1N4148" V 10550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10600 1825 50  0001 C CNN
 F 3 "~" V 10600 1825 50  0001 C CNN
 	1    10600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10600 1625 10600 1725
@@ -789,7 +789,7 @@ F 1 "SW_Push" H 10400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10400 2525 50  0001 C CNN
 F 3 "" H 10400 2525 50  0001 C CNN
 	1    10400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D35
@@ -800,7 +800,7 @@ F 1 "1N4148" V 10550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10600 2525 50  0001 C CNN
 F 3 "~" V 10600 2525 50  0001 C CNN
 	1    10600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10600 2325 10600 2425
@@ -813,7 +813,7 @@ F 1 "SW_Push" H 10400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10400 3225 50  0001 C CNN
 F 3 "" H 10400 3225 50  0001 C CNN
 	1    10400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D34
@@ -824,7 +824,7 @@ F 1 "1N4148" V 10550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10600 3225 50  0001 C CNN
 F 3 "~" V 10600 3225 50  0001 C CNN
 	1    10600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10600 3025 10600 3125
@@ -837,7 +837,7 @@ F 1 "SW_Push" H 10400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10400 3925 50  0001 C CNN
 F 3 "" H 10400 3925 50  0001 C CNN
 	1    10400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D33
@@ -848,7 +848,7 @@ F 1 "1N4148" V 10550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10600 3925 50  0001 C CNN
 F 3 "~" V 10600 3925 50  0001 C CNN
 	1    10600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10600 3725 10600 3825
@@ -873,7 +873,7 @@ F 1 "SW_Push" H 10900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10900 1825 50  0001 C CNN
 F 3 "" H 10900 1825 50  0001 C CNN
 	1    10900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D40
@@ -884,7 +884,7 @@ F 1 "1N4148" V 11050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11100 1825 50  0001 C CNN
 F 3 "~" V 11100 1825 50  0001 C CNN
 	1    11100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11100 1625 11100 1725
@@ -897,7 +897,7 @@ F 1 "SW_Push" H 10900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10900 2525 50  0001 C CNN
 F 3 "" H 10900 2525 50  0001 C CNN
 	1    10900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D39
@@ -908,7 +908,7 @@ F 1 "1N4148" V 11050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11100 2525 50  0001 C CNN
 F 3 "~" V 11100 2525 50  0001 C CNN
 	1    11100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11100 2325 11100 2425
@@ -921,7 +921,7 @@ F 1 "SW_Push" H 10900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10900 3225 50  0001 C CNN
 F 3 "" H 10900 3225 50  0001 C CNN
 	1    10900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D38
@@ -932,7 +932,7 @@ F 1 "1N4148" V 11050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11100 3225 50  0001 C CNN
 F 3 "~" V 11100 3225 50  0001 C CNN
 	1    11100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11100 3025 11100 3125
@@ -945,7 +945,7 @@ F 1 "SW_Push" H 10900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 10900 3925 50  0001 C CNN
 F 3 "" H 10900 3925 50  0001 C CNN
 	1    10900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D37
@@ -956,7 +956,7 @@ F 1 "1N4148" V 11050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11100 3925 50  0001 C CNN
 F 3 "~" V 11100 3925 50  0001 C CNN
 	1    11100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11100 3725 11100 3825
@@ -980,7 +980,7 @@ F 1 "SW_Push" H 11400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11400 1825 50  0001 C CNN
 F 3 "" H 11400 1825 50  0001 C CNN
 	1    11400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D44
@@ -991,7 +991,7 @@ F 1 "1N4148" V 11550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11600 1825 50  0001 C CNN
 F 3 "~" V 11600 1825 50  0001 C CNN
 	1    11600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11600 1625 11600 1725
@@ -1004,7 +1004,7 @@ F 1 "SW_Push" H 11400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11400 2525 50  0001 C CNN
 F 3 "" H 11400 2525 50  0001 C CNN
 	1    11400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D43
@@ -1015,7 +1015,7 @@ F 1 "1N4148" V 11550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11600 2525 50  0001 C CNN
 F 3 "~" V 11600 2525 50  0001 C CNN
 	1    11600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11600 2325 11600 2425
@@ -1028,7 +1028,7 @@ F 1 "SW_Push" H 11400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11400 3225 50  0001 C CNN
 F 3 "" H 11400 3225 50  0001 C CNN
 	1    11400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D42
@@ -1039,7 +1039,7 @@ F 1 "1N4148" V 11550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11600 3225 50  0001 C CNN
 F 3 "~" V 11600 3225 50  0001 C CNN
 	1    11600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11600 3025 11600 3125
@@ -1052,7 +1052,7 @@ F 1 "SW_Push" H 11400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11400 3925 50  0001 C CNN
 F 3 "" H 11400 3925 50  0001 C CNN
 	1    11400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D41
@@ -1063,7 +1063,7 @@ F 1 "1N4148" V 11550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 11600 3925 50  0001 C CNN
 F 3 "~" V 11600 3925 50  0001 C CNN
 	1    11600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	11600 3725 11600 3825
@@ -1087,7 +1087,7 @@ F 1 "SW_Push" H 11900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11900 1825 50  0001 C CNN
 F 3 "" H 11900 1825 50  0001 C CNN
 	1    11900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D49
@@ -1098,7 +1098,7 @@ F 1 "1N4148" V 12050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12100 1825 50  0001 C CNN
 F 3 "~" V 12100 1825 50  0001 C CNN
 	1    12100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	12100 1625 12100 1725
@@ -1111,7 +1111,7 @@ F 1 "SW_Push" H 11900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11900 2525 50  0001 C CNN
 F 3 "" H 11900 2525 50  0001 C CNN
 	1    11900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D48
@@ -1122,7 +1122,7 @@ F 1 "1N4148" V 12050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12100 2525 50  0001 C CNN
 F 3 "~" V 12100 2525 50  0001 C CNN
 	1    12100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	12100 2325 12100 2425
@@ -1135,7 +1135,7 @@ F 1 "SW_Push" H 11900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11900 3225 50  0001 C CNN
 F 3 "" H 11900 3225 50  0001 C CNN
 	1    11900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D47
@@ -1146,7 +1146,7 @@ F 1 "1N4148" V 12050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12100 3225 50  0001 C CNN
 F 3 "~" V 12100 3225 50  0001 C CNN
 	1    12100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	12100 3025 12100 3125
@@ -1159,7 +1159,7 @@ F 1 "1N4148" V 12050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12100 3925 50  0001 C CNN
 F 3 "~" V 12100 3925 50  0001 C CNN
 	1    12100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	12100 3725 12100 3825
@@ -1213,7 +1213,7 @@ F 1 "10k" H 3834 4780 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3775 4825 50  0001 C CNN
 F 3 "~" H 3775 4825 50  0001 C CNN
 	1    3775 4825
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Connection ~ 3775 5025
 Wire Wire Line
@@ -1227,7 +1227,7 @@ F 1 "GND" H 4480 5552 50  0000 C CNN
 F 2 "" H 4475 5725 50  0001 C CNN
 F 3 "" H 4475 5725 50  0001 C CNN
 	1    4475 5725
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4475 5025 4475 5625
@@ -1243,7 +1243,7 @@ F 1 "GND" H 4130 1952 50  0000 C CNN
 F 2 "" H 4125 2125 50  0001 C CNN
 F 3 "" H 4125 2125 50  0001 C CNN
 	1    4125 2125
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C_Polarized_Small_US C1
@@ -1254,7 +1254,7 @@ F 1 "4.7u" H 4216 1880 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" H 4125 1925 50  0001 C CNN
 F 3 "~" H 4125 1925 50  0001 C CNN
 	1    4125 1925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4125 2025 4125 2125
@@ -1267,7 +1267,7 @@ F 1 "+5V" H 4140 1898 50  0000 C CNN
 F 2 "" H 4125 1725 50  0001 C CNN
 F 3 "" H 4125 1725 50  0001 C CNN
 	1    4125 1725
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L MCU_Microchip_ATmega:ATmega328P-P U1
@@ -1278,7 +1278,7 @@ F 1 "ATMEGA328-PU" H 2600 3200 50  0000 L CNN
 F 2 "Package_DIP:DIP-28_W7.62mm" H 2175 4725 50  0001 C CIN
 F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 2175 4725 50  0001 C CNN
 	1    2175 4725
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR09
@@ -1289,7 +1289,7 @@ F 1 "+5V" H 2240 3298 50  0000 C CNN
 F 2 "" H 2225 3125 50  0001 C CNN
 F 3 "" H 2225 3125 50  0001 C CNN
 	1    2225 3125
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR015
@@ -1300,7 +1300,7 @@ F 1 "GND" H 2180 6102 50  0000 C CNN
 F 2 "" H 2175 6275 50  0001 C CNN
 F 3 "" H 2175 6275 50  0001 C CNN
 	1    2175 6275
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2775 5425 2875 5425
@@ -1325,7 +1325,7 @@ F 1 "100n" H 4617 1880 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 4525 1925 50  0001 C CNN
 F 3 "~" H 4525 1925 50  0001 C CNN
 	1    4525 1925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4525 2025 4525 2125
@@ -1346,7 +1346,7 @@ F 1 "100n" H 5017 1880 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 4925 1925 50  0001 C CNN
 F 3 "~" H 4925 1925 50  0001 C CNN
 	1    4925 1925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4525 1725 4925 1725
@@ -1367,7 +1367,7 @@ F 1 "16MHz" V 3820 3713 50  0000 L CNN
 F 2 "Crystal:Crystal_HC49-4H_Vertical" H 3775 3625 50  0001 C CNN
 F 3 "~" H 3775 3625 50  0001 C CNN
 	1    3775 3625
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR011
@@ -1378,7 +1378,7 @@ F 1 "GND" H 4080 4052 50  0000 C CNN
 F 2 "" H 4075 4225 50  0001 C CNN
 F 3 "" H 4075 4225 50  0001 C CNN
 	1    4075 4225
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C_Small C4
@@ -1389,7 +1389,7 @@ F 1 "22p" H 3867 3880 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 3775 3925 50  0001 C CNN
 F 3 "~" H 3775 3925 50  0001 C CNN
 	1    3775 3925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:C_Small C5
@@ -1400,7 +1400,7 @@ F 1 "22p" H 4167 3880 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 4075 3925 50  0001 C CNN
 F 3 "~" H 4075 3925 50  0001 C CNN
 	1    4075 3925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	3775 4025 3775 4125
@@ -1434,7 +1434,7 @@ F 1 "ISP" H 4925 4351 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 4875 4125 50  0001 C CNN
 F 3 "~" H 4875 4125 50  0001 C CNN
 	1    4875 4125
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4675 4225 4575 4225
@@ -1449,7 +1449,7 @@ F 1 "+5V" H 5490 3798 50  0000 C CNN
 F 2 "" H 5475 3625 50  0001 C CNN
 F 3 "" H 5475 3625 50  0001 C CNN
 	1    5475 3625
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	5475 3625 5475 4025
@@ -1468,7 +1468,7 @@ F 1 "GND" H 5280 4152 50  0000 C CNN
 F 2 "" H 5275 4325 50  0001 C CNN
 F 3 "" H 5275 4325 50  0001 C CNN
 	1    5275 4325
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Text Label 4575 4225 2    50   ~ 10
 RESET
@@ -1511,7 +1511,7 @@ F 1 "M2" H 15900 8605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15800 8650 50  0001 C CNN
 F 3 "~" H 15800 8650 50  0001 C CNN
 	1    15800 8650
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H6
@@ -1522,7 +1522,7 @@ F 1 "M2" H 15900 8805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15800 8850 50  0001 C CNN
 F 3 "~" H 15800 8850 50  0001 C CNN
 	1    15800 8850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H1
@@ -1533,7 +1533,7 @@ F 1 "M2" H 15300 8605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 8650 50  0001 C CNN
 F 3 "~" H 15200 8650 50  0001 C CNN
 	1    15200 8650
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
@@ -1544,7 +1544,7 @@ F 1 "M2" H 15300 8805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 8850 50  0001 C CNN
 F 3 "~" H 15200 8850 50  0001 C CNN
 	1    15200 8850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H7
@@ -1555,7 +1555,7 @@ F 1 "M2" H 15300 9005 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 9050 50  0001 C CNN
 F 3 "~" H 15200 9050 50  0001 C CNN
 	1    15200 9050
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H9
@@ -1566,7 +1566,7 @@ F 1 "M2" H 15900 9005 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15800 9050 50  0001 C CNN
 F 3 "~" H 15800 9050 50  0001 C CNN
 	1    15800 9050
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
@@ -1577,7 +1577,7 @@ F 1 "M2" H 15600 8605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 8650 50  0001 C CNN
 F 3 "~" H 15500 8650 50  0001 C CNN
 	1    15500 8650
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H5
@@ -1588,7 +1588,7 @@ F 1 "M2" H 15600 8805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 8850 50  0001 C CNN
 F 3 "~" H 15500 8850 50  0001 C CNN
 	1    15500 8850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H8
@@ -1599,7 +1599,7 @@ F 1 "M2" H 15600 9005 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 9050 50  0001 C CNN
 F 3 "~" H 15500 9050 50  0001 C CNN
 	1    15500 9050
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H10
@@ -1610,7 +1610,7 @@ F 1 "M2" H 15300 9205 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 9250 50  0001 C CNN
 F 3 "~" H 15200 9250 50  0001 C CNN
 	1    15200 9250
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2775 4725 2875 4725
@@ -1645,7 +1645,7 @@ F 1 "+5V" H 3790 4798 50  0000 C CNN
 F 2 "" H 3775 4625 50  0001 C CNN
 F 3 "" H 3775 4625 50  0001 C CNN
 	1    3775 4625
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 NoConn ~ 1575 3525
 Text Label 2875 4825 0    50   ~ 10
@@ -1663,7 +1663,7 @@ F 1 "10K" H 1209 8455 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1150 8500 50  0001 C CNN
 F 3 "~" H 1150 8500 50  0001 C CNN
 	1    1150 8500
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R6
@@ -1674,7 +1674,7 @@ F 1 "10K" H 1509 8455 50  0000 L CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1450 8500 50  0001 C CNN
 F 3 "~" H 1450 8500 50  0001 C CNN
 	1    1450 8500
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR016
@@ -1685,7 +1685,7 @@ F 1 "+5V" H 1165 8473 50  0000 C CNN
 F 2 "" H 1150 8300 50  0001 C CNN
 F 3 "" H 1150 8300 50  0001 C CNN
 	1    1150 8300
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1150 8300 1150 8400
@@ -1703,7 +1703,7 @@ F 1 "PWR_FLAG" H 2475 2454 25  0000 C CNN
 F 2 "" H 2475 2325 50  0000 C CNN
 F 3 "" H 2475 2325 50  0000 C CNN
 	1    2475 2325
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:LED_Small LED2
@@ -1714,7 +1714,7 @@ F 1 "NUMLOCK" H 4175 6969 50  0000 C CNN
 F 2 "LED_THT:LED_D3.0mm_Clear" V 4175 6825 50  0001 C CNN
 F 3 "~" V 4175 6825 50  0001 C CNN
 	1    4175 6825
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	4275 6425 4475 6425
@@ -1734,7 +1734,7 @@ F 1 "GND" H 4480 6752 50  0000 C CNN
 F 2 "" H 4475 6925 50  0001 C CNN
 F 3 "" H 4475 6925 50  0001 C CNN
 	1    4475 6925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R7
@@ -1745,7 +1745,7 @@ F 1 "1.5k" V 3770 6425 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3875 6425 50  0001 C CNN
 F 3 "~" H 3875 6425 50  0001 C CNN
 	1    3875 6425
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	3975 6425 4075 6425
@@ -1760,7 +1760,7 @@ F 1 "1.5k" V 3770 6825 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3875 6825 50  0001 C CNN
 F 3 "~" H 3875 6825 50  0001 C CNN
 	1    3875 6825
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	3775 6825 3675 6825
@@ -1958,7 +1958,7 @@ F 1 "1N4148" V 12550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12600 3925 50  0001 C CNN
 F 3 "~" V 12600 3925 50  0001 C CNN
 	1    12600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW71
@@ -1969,7 +1969,7 @@ F 1 "SW_Push" H 12400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12400 3925 50  0001 C CNN
 F 3 "" H 12400 3925 50  0001 C CNN
 	1    12400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	12600 3025 12600 3125
@@ -1982,7 +1982,7 @@ F 1 "1N4148" V 12550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12600 3225 50  0001 C CNN
 F 3 "~" V 12600 3225 50  0001 C CNN
 	1    12600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW52
@@ -1993,7 +1993,7 @@ F 1 "SW_Push" H 12400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12400 3225 50  0001 C CNN
 F 3 "" H 12400 3225 50  0001 C CNN
 	1    12400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	12600 2325 12600 2425
@@ -2006,7 +2006,7 @@ F 1 "1N4148" V 12550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12600 2525 50  0001 C CNN
 F 3 "~" V 12600 2525 50  0001 C CNN
 	1    12600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW31
@@ -2017,7 +2017,7 @@ F 1 "SW_Push" H 12400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12400 2525 50  0001 C CNN
 F 3 "" H 12400 2525 50  0001 C CNN
 	1    12400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	12600 1625 12600 1725
@@ -2030,7 +2030,7 @@ F 1 "1N4148" V 12550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12600 1825 50  0001 C CNN
 F 3 "~" V 12600 1825 50  0001 C CNN
 	1    12600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW13
@@ -2041,7 +2041,7 @@ F 1 "SW_Push" H 12400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12400 1825 50  0001 C CNN
 F 3 "" H 12400 1825 50  0001 C CNN
 	1    12400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	12600 4025 13100 4025
@@ -2069,7 +2069,7 @@ F 1 "1N4148" V 13050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13100 3925 50  0001 C CNN
 F 3 "~" V 13100 3925 50  0001 C CNN
 	1    13100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	13100 3025 13100 3125
@@ -2082,7 +2082,7 @@ F 1 "1N4148" V 13050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13100 3225 50  0001 C CNN
 F 3 "~" V 13100 3225 50  0001 C CNN
 	1    13100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW53
@@ -2093,7 +2093,7 @@ F 1 "SW_Push" H 12900 2975 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 12900 3225 50  0001 C CNN
 F 3 "" H 12900 3225 50  0001 C CNN
 	1    12900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	13100 2325 13100 2425
@@ -2106,7 +2106,7 @@ F 1 "1N4148" V 13050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13100 2525 50  0001 C CNN
 F 3 "~" V 13100 2525 50  0001 C CNN
 	1    13100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW32
@@ -2117,7 +2117,7 @@ F 1 "SW_Push" H 12900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12900 2525 50  0001 C CNN
 F 3 "" H 12900 2525 50  0001 C CNN
 	1    12900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	13100 1625 13100 1725
@@ -2130,7 +2130,7 @@ F 1 "1N4148" V 13050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13100 1825 50  0001 C CNN
 F 3 "~" V 13100 1825 50  0001 C CNN
 	1    13100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW14
@@ -2141,7 +2141,7 @@ F 1 "SW_Push" H 12900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12900 1825 50  0001 C CNN
 F 3 "" H 12900 1825 50  0001 C CNN
 	1    12900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 12600 1925
 Connection ~ 12600 2625
@@ -2166,7 +2166,7 @@ F 1 "1N4148" V 13550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13600 3925 50  0001 C CNN
 F 3 "~" V 13600 3925 50  0001 C CNN
 	1    13600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW73
@@ -2177,7 +2177,7 @@ F 1 "SW_Push" H 13400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13400 3925 50  0001 C CNN
 F 3 "" H 13400 3925 50  0001 C CNN
 	1    13400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	13600 3025 13600 3125
@@ -2190,7 +2190,7 @@ F 1 "1N4148" V 13550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13600 3225 50  0001 C CNN
 F 3 "~" V 13600 3225 50  0001 C CNN
 	1    13600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW54
@@ -2201,7 +2201,7 @@ F 1 "SW_Push" H 13400 2975 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-2.25U-NoLED" H 13400 3225 50  0001 C CNN
 F 3 "" H 13400 3225 50  0001 C CNN
 	1    13400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW38
@@ -2212,7 +2212,7 @@ F 1 "SW_Push" H 12900 3069 50  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12900 3075 50  0001 C CNN
 F 3 "" H 12900 3075 50  0001 C CNN
 	1    12900 2875
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	13600 1625 13600 1725
@@ -2225,7 +2225,7 @@ F 1 "1N4148" V 13550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13600 1825 50  0001 C CNN
 F 3 "~" V 13600 1825 50  0001 C CNN
 	1    13600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW15
@@ -2236,7 +2236,7 @@ F 1 "SW_Push" H 13400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13400 1825 50  0001 C CNN
 F 3 "" H 13400 1825 50  0001 C CNN
 	1    13400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	9600 3725 9600 3825
@@ -2249,7 +2249,7 @@ F 1 "SW_Push" H 6900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.25U-NoLED" H 6900 4625 50  0001 C CNN
 F 3 "" H 6900 4625 50  0001 C CNN
 	1    6900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D1
@@ -2260,7 +2260,7 @@ F 1 "1N4148" V 7050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7100 4625 50  0001 C CNN
 F 3 "~" V 7100 4625 50  0001 C CNN
 	1    7100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7100 4425 7100 4525
@@ -2275,7 +2275,7 @@ F 1 "SW_Push" H 7400 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.25U-NoLED" H 7400 4625 50  0001 C CNN
 F 3 "" H 7400 4625 50  0001 C CNN
 	1    7400 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D6
@@ -2286,7 +2286,7 @@ F 1 "1N4148" V 7550 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 7600 4625 50  0001 C CNN
 F 3 "~" V 7600 4625 50  0001 C CNN
 	1    7600 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	7600 4425 7600 4525
@@ -2301,7 +2301,7 @@ F 1 "SW_Push" H 7900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.25U-NoLED" H 7900 4625 50  0001 C CNN
 F 3 "" H 7900 4625 50  0001 C CNN
 	1    7900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D11
@@ -2312,7 +2312,7 @@ F 1 "1N4148" V 8050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 8100 4625 50  0001 C CNN
 F 3 "~" V 8100 4625 50  0001 C CNN
 	1    8100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	8100 4425 8100 4525
@@ -2327,7 +2327,7 @@ F 1 "SW_Push" H 9900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-6.25U-ReversedStabilizers-NoLED" H 9900 4625 50  0001 C CNN
 F 3 "" H 9900 4625 50  0001 C CNN
 	1    9900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D28
@@ -2338,7 +2338,7 @@ F 1 "1N4148" V 10050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 10100 4625 50  0001 C CNN
 F 3 "~" V 10100 4625 50  0001 C CNN
 	1    10100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	10100 4425 10100 4525
@@ -2351,7 +2351,7 @@ F 1 "SW_Push" H 11900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 11900 4625 50  0001 C CNN
 F 3 "" H 11900 4625 50  0001 C CNN
 	1    11900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D45
@@ -2362,7 +2362,7 @@ F 1 "1N4148" V 12050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12100 4625 50  0001 C CNN
 F 3 "~" V 12100 4625 50  0001 C CNN
 	1    12100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	12100 4425 12100 4525
@@ -2396,7 +2396,7 @@ F 1 "1N4148" V 12550 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 12600 4625 50  0001 C CNN
 F 3 "~" V 12600 4625 50  0001 C CNN
 	1    12600 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW84
@@ -2407,7 +2407,7 @@ F 1 "SW_Push" H 12400 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.5U-NoLED" H 12400 4625 50  0001 C CNN
 F 3 "" H 12400 4625 50  0001 C CNN
 	1    12400 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	12600 4725 13100 4725
@@ -2422,7 +2422,7 @@ F 1 "1N4148" V 13050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13100 4625 50  0001 C CNN
 F 3 "~" V 13100 4625 50  0001 C CNN
 	1    13100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW85
@@ -2433,7 +2433,7 @@ F 1 "SW_Push" H 12900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 12900 4625 50  0001 C CNN
 F 3 "" H 12900 4625 50  0001 C CNN
 	1    12900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 12600 4725
 Wire Wire Line
@@ -2451,7 +2451,7 @@ F 1 "1N4148" V 13550 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13600 4625 50  0001 C CNN
 F 3 "~" V 13600 4625 50  0001 C CNN
 	1    13600 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW86
@@ -2462,7 +2462,7 @@ F 1 "SW_Push" H 13400 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13400 4625 50  0001 C CNN
 F 3 "" H 13400 4625 50  0001 C CNN
 	1    13400 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 13100 4725
 Connection ~ 6700 3725
@@ -2484,7 +2484,7 @@ F 1 "SW_Push" H 13400 1469 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-2U-NoLED" H 13400 1475 50  0001 C CNN
 F 3 "" H 13400 1475 50  0001 C CNN
 	1    13400 1275
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	13600 1625 13600 1275
@@ -2499,7 +2499,7 @@ F 1 "SW_Push" H 11900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 11900 3925 50  0001 C CNN
 F 3 "" H 11900 3925 50  0001 C CNN
 	1    11900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	11700 3725 11700 3025
@@ -2512,7 +2512,7 @@ F 1 "SW_Push" H 12900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.75U-NoLED" H 12900 3925 50  0001 C CNN
 F 3 "" H 12900 3925 50  0001 C CNN
 	1    12900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 12700 2875
 Wire Wire Line
@@ -2531,7 +2531,7 @@ F 1 "SW_Push" H 13400 3069 50  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-ISO-ReversedStabilizers" H 13400 3075 50  0001 C CNN
 F 3 "" H 13400 3075 50  0001 C CNN
 	1    13400 2875
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 13200 2875
 Wire Wire Line
@@ -2548,7 +2548,7 @@ F 1 "SW_Push" H 6900 3744 50  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.25U-NoLED" H 6900 3750 50  0001 C CNN
 F 3 "" H 6900 3750 50  0001 C CNN
 	1    6900 3550
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 6700 3550
 Wire Wire Line
@@ -2573,7 +2573,7 @@ F 1 "1N4148" V 13550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 13600 2525 50  0001 C CNN
 F 3 "~" V 13600 2525 50  0001 C CNN
 	1    13600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 $Comp
 L Switch:SW_Push SW33
@@ -2584,7 +2584,7 @@ F 1 "SW_Push" H 13400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13400 2525 50  0001 C CNN
 F 3 "" H 13400 2525 50  0001 C CNN
 	1    13400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 13200 2325
 Wire Wire Line
@@ -2603,7 +2603,7 @@ F 1 "+5V" H 2190 8648 50  0000 C CNN
 F 2 "" H 2175 8475 50  0001 C CNN
 F 3 "" H 2175 8475 50  0001 C CNN
 	1    2175 8475
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2175 8475 2175 8525
@@ -2616,7 +2616,7 @@ F 1 "GND" H 2180 10602 50  0000 C CNN
 F 2 "" H 2175 10775 50  0001 C CNN
 F 3 "" H 2175 10775 50  0001 C CNN
 	1    2175 10775
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2175 10725 2175 10775
@@ -2629,7 +2629,7 @@ F 1 "GND" H 1480 10602 50  0000 C CNN
 F 2 "" H 1475 10775 50  0001 C CNN
 F 3 "" H 1475 10775 50  0001 C CNN
 	1    1475 10775
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1475 10425 1475 10775
@@ -2649,7 +2649,7 @@ F 1 "+5V" H 1315 9873 50  0000 C CNN
 F 2 "" H 1300 9700 50  0001 C CNN
 F 3 "" H 1300 9700 50  0001 C CNN
 	1    1300 9700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	1300 9700 1300 9725
@@ -2659,14 +2659,6 @@ Text Label 2875 4525 0    50   ~ 10
 ROW4
 Wire Wire Line
 	2775 3525 2875 3525
-Text Label -250 7675 0    50   ~ 10
-COL13
-Wire Wire Line
-	-350 7675 -250 7675
-Text Label -250 7775 0    50   ~ 10
-COL12
-Wire Wire Line
-	-350 7775 -250 7775
 NoConn ~ 2875 9325
 NoConn ~ 2875 9425
 NoConn ~ 2875 9525
@@ -2707,7 +2699,7 @@ F 1 "I2C" H 5305 6576 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 5225 6675 50  0001 C CNN
 F 3 "~" H 5225 6675 50  0001 C CNN
 	1    5225 6675
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR07
@@ -2718,7 +2710,7 @@ F 1 "+5V" H 4965 6698 50  0000 C CNN
 F 2 "" H 4950 6525 50  0001 C CNN
 F 3 "" H 4950 6525 50  0001 C CNN
 	1    4950 6525
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4950 6525 4950 6575
@@ -2733,7 +2725,7 @@ F 1 "GND" H 4955 6752 50  0000 C CNN
 F 2 "" H 4950 6925 50  0001 C CNN
 F 3 "" H 4950 6925 50  0001 C CNN
 	1    4950 6925
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4950 6925 4950 6875
@@ -2765,7 +2757,7 @@ F 1 "SW_Push" H 13900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13900 1825 50  0001 C CNN
 F 3 "" H 13900 1825 50  0001 C CNN
 	1    13900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D69
@@ -2776,7 +2768,7 @@ F 1 "1N4148" V 14050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14100 1825 50  0001 C CNN
 F 3 "~" V 14100 1825 50  0001 C CNN
 	1    14100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14100 1625 14100 1725
@@ -2789,7 +2781,7 @@ F 1 "SW_Push" H 13900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13900 2525 50  0001 C CNN
 F 3 "" H 13900 2525 50  0001 C CNN
 	1    13900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D68
@@ -2800,7 +2792,7 @@ F 1 "1N4148" V 14050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14100 2525 50  0001 C CNN
 F 3 "~" V 14100 2525 50  0001 C CNN
 	1    14100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14100 2325 14100 2425
@@ -2813,7 +2805,7 @@ F 1 "SW_Push" H 13900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13900 3225 50  0001 C CNN
 F 3 "" H 13900 3225 50  0001 C CNN
 	1    13900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D67
@@ -2824,7 +2816,7 @@ F 1 "1N4148" V 14050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14100 3225 50  0001 C CNN
 F 3 "~" V 14100 3225 50  0001 C CNN
 	1    14100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14100 3025 14100 3125
@@ -2837,7 +2829,7 @@ F 1 "1N4148" V 14050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14100 3925 50  0001 C CNN
 F 3 "~" V 14100 3925 50  0001 C CNN
 	1    14100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Connection ~ 13700 1625
 Wire Wire Line
@@ -2859,7 +2851,7 @@ F 1 "SW_Push" H 13900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13900 4625 50  0001 C CNN
 F 3 "" H 13900 4625 50  0001 C CNN
 	1    13900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D65
@@ -2870,7 +2862,7 @@ F 1 "1N4148" V 14050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14100 4625 50  0001 C CNN
 F 3 "~" V 14100 4625 50  0001 C CNN
 	1    14100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14100 4425 14100 4525
@@ -2912,7 +2904,7 @@ F 1 "SW_Push" H 13900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 13900 3925 50  0001 C CNN
 F 3 "" H 13900 3925 50  0001 C CNN
 	1    13900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 13700 3725
 Wire Wire Line
@@ -2928,7 +2920,7 @@ F 1 "SW_Push" H 14400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14400 1825 50  0001 C CNN
 F 3 "" H 14400 1825 50  0001 C CNN
 	1    14400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D74
@@ -2939,7 +2931,7 @@ F 1 "1N4148" V 14550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14600 1825 50  0001 C CNN
 F 3 "~" V 14600 1825 50  0001 C CNN
 	1    14600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14600 1625 14600 1725
@@ -2952,7 +2944,7 @@ F 1 "SW_Push" H 14400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14400 2525 50  0001 C CNN
 F 3 "" H 14400 2525 50  0001 C CNN
 	1    14400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D73
@@ -2963,7 +2955,7 @@ F 1 "1N4148" V 14550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14600 2525 50  0001 C CNN
 F 3 "~" V 14600 2525 50  0001 C CNN
 	1    14600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14600 2325 14600 2425
@@ -2976,7 +2968,7 @@ F 1 "SW_Push" H 14400 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14400 3225 50  0001 C CNN
 F 3 "" H 14400 3225 50  0001 C CNN
 	1    14400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D72
@@ -2987,7 +2979,7 @@ F 1 "1N4148" V 14550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14600 3225 50  0001 C CNN
 F 3 "~" V 14600 3225 50  0001 C CNN
 	1    14600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14600 3025 14600 3125
@@ -3000,7 +2992,7 @@ F 1 "1N4148" V 14550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14600 3925 50  0001 C CNN
 F 3 "~" V 14600 3925 50  0001 C CNN
 	1    14600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Connection ~ 14200 1625
 Wire Wire Line
@@ -3022,7 +3014,7 @@ F 1 "SW_Push" H 14400 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14400 4625 50  0001 C CNN
 F 3 "" H 14400 4625 50  0001 C CNN
 	1    14400 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D70
@@ -3033,7 +3025,7 @@ F 1 "1N4148" V 14550 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 14600 4625 50  0001 C CNN
 F 3 "~" V 14600 4625 50  0001 C CNN
 	1    14600 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	14600 4425 14600 4525
@@ -3058,7 +3050,7 @@ F 1 "SW_Push" H 14400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14400 3925 50  0001 C CNN
 F 3 "" H 14400 3925 50  0001 C CNN
 	1    14400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 14200 3725
 Wire Wire Line
@@ -3079,7 +3071,7 @@ F 1 "SW_Push" H 14900 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14900 1825 50  0001 C CNN
 F 3 "" H 14900 1825 50  0001 C CNN
 	1    14900 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D79
@@ -3090,7 +3082,7 @@ F 1 "1N4148" V 15050 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15100 1825 50  0001 C CNN
 F 3 "~" V 15100 1825 50  0001 C CNN
 	1    15100 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15100 1625 15100 1725
@@ -3103,7 +3095,7 @@ F 1 "SW_Push" H 14900 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14900 2525 50  0001 C CNN
 F 3 "" H 14900 2525 50  0001 C CNN
 	1    14900 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D78
@@ -3114,7 +3106,7 @@ F 1 "1N4148" V 15050 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15100 2525 50  0001 C CNN
 F 3 "~" V 15100 2525 50  0001 C CNN
 	1    15100 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15100 2325 15100 2425
@@ -3127,7 +3119,7 @@ F 1 "SW_Push" H 14900 3219 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14900 3225 50  0001 C CNN
 F 3 "" H 14900 3225 50  0001 C CNN
 	1    14900 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D77
@@ -3138,7 +3130,7 @@ F 1 "1N4148" V 15050 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15100 3225 50  0001 C CNN
 F 3 "~" V 15100 3225 50  0001 C CNN
 	1    15100 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15100 3025 15100 3125
@@ -3151,7 +3143,7 @@ F 1 "1N4148" V 15050 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15100 3925 50  0001 C CNN
 F 3 "~" V 15100 3925 50  0001 C CNN
 	1    15100 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Connection ~ 14700 1625
 Wire Wire Line
@@ -3173,7 +3165,7 @@ F 1 "SW_Push" H 14900 4619 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14900 4625 50  0001 C CNN
 F 3 "" H 14900 4625 50  0001 C CNN
 	1    14900 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D75
@@ -3184,7 +3176,7 @@ F 1 "1N4148" V 15050 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15100 4625 50  0001 C CNN
 F 3 "~" V 15100 4625 50  0001 C CNN
 	1    15100 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15100 4425 15100 4525
@@ -3209,7 +3201,7 @@ F 1 "SW_Push" H 14900 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 14900 3925 50  0001 C CNN
 F 3 "" H 14900 3925 50  0001 C CNN
 	1    14900 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 14700 3725
 Wire Wire Line
@@ -3230,7 +3222,7 @@ F 1 "SW_Push" H 15400 1819 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 15400 1825 50  0001 C CNN
 F 3 "" H 15400 1825 50  0001 C CNN
 	1    15400 1625
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D84
@@ -3241,7 +3233,7 @@ F 1 "1N4148" V 15550 1475 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15600 1825 50  0001 C CNN
 F 3 "~" V 15600 1825 50  0001 C CNN
 	1    15600 1825
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15600 1625 15600 1725
@@ -3254,7 +3246,7 @@ F 1 "SW_Push" H 15400 2519 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 15400 2525 50  0001 C CNN
 F 3 "" H 15400 2525 50  0001 C CNN
 	1    15400 2325
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D83
@@ -3265,7 +3257,7 @@ F 1 "1N4148" V 15550 2175 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15600 2525 50  0001 C CNN
 F 3 "~" V 15600 2525 50  0001 C CNN
 	1    15600 2525
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15600 2325 15600 2425
@@ -3278,7 +3270,7 @@ F 1 "SW_Push" H 15400 2975 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 15400 3225 50  0001 C CNN
 F 3 "" H 15400 3225 50  0001 C CNN
 	1    15400 3025
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D82
@@ -3289,7 +3281,7 @@ F 1 "1N4148" V 15550 2875 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15600 3225 50  0001 C CNN
 F 3 "~" V 15600 3225 50  0001 C CNN
 	1    15600 3225
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15600 3025 15600 3125
@@ -3302,7 +3294,7 @@ F 1 "1N4148" V 15550 3575 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15600 3925 50  0001 C CNN
 F 3 "~" V 15600 3925 50  0001 C CNN
 	1    15600 3925
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Connection ~ 15200 1625
 Wire Wire Line
@@ -3324,7 +3316,7 @@ F 1 "SW_Push" H 15400 4375 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 15400 4625 50  0001 C CNN
 F 3 "" H 15400 4625 50  0001 C CNN
 	1    15400 4425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Device:D_Small D80
@@ -3335,7 +3327,7 @@ F 1 "1N4148" V 15550 4275 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 15600 4625 50  0001 C CNN
 F 3 "~" V 15600 4625 50  0001 C CNN
 	1    15600 4625
-	0    1    -1   0
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	15600 4425 15600 4525
@@ -3360,7 +3352,7 @@ F 1 "SW_Push" H 15400 3919 50  0000 C CNN
 F 2 "MX_Alps_Hybrid:MX-1U-NoLED" H 15400 3925 50  0001 C CNN
 F 3 "" H 15400 3925 50  0001 C CNN
 	1    15400 3725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 15200 3725
 Wire Wire Line
@@ -3381,7 +3373,7 @@ F 1 "SW_Push" H 15400 4469 50  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-2U-NoLED" H 15400 4475 50  0001 C CNN
 F 3 "" H 15400 4475 50  0001 C CNN
 	1    15400 4275
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 15200 4275
 Wire Wire Line
@@ -3398,7 +3390,7 @@ F 1 "SW_Push" H 15400 3069 50  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-2U-NoLED" H 15400 3075 50  0001 C CNN
 F 3 "" H 15400 3075 50  0001 C CNN
 	1    15400 2875
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 Connection ~ 15200 2875
 Wire Wire Line
@@ -3415,7 +3407,7 @@ F 1 "SW_Push" H 6900 2969 50  0001 C CNN
 F 2 "MX_Alps_Hybrid:MX-1.25U-NoLED" H 6900 2975 50  0001 C CNN
 F 3 "" H 6900 2975 50  0001 C CNN
 	1    6900 2775
-	1    0    0    1
+	1    0    0    1   
 $EndComp
 Connection ~ 6700 2775
 Wire Wire Line
@@ -3432,7 +3424,7 @@ F 1 "M2" H 15900 9205 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15800 9250 50  0001 C CNN
 F 3 "~" H 15800 9250 50  0001 C CNN
 	1    15800 9250
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H11
@@ -3443,7 +3435,7 @@ F 1 "M2" H 15600 9205 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 9250 50  0001 C CNN
 F 3 "~" H 15500 9250 50  0001 C CNN
 	1    15500 9250
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H13
@@ -3454,7 +3446,7 @@ F 1 "M2" H 15300 9405 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 9450 50  0001 C CNN
 F 3 "~" H 15200 9450 50  0001 C CNN
 	1    15200 9450
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H15
@@ -3465,7 +3457,7 @@ F 1 "M2" H 15900 9405 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15800 9450 50  0001 C CNN
 F 3 "~" H 15800 9450 50  0001 C CNN
 	1    15800 9450
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H14
@@ -3476,7 +3468,7 @@ F 1 "M2" H 15600 9405 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 9450 50  0001 C CNN
 F 3 "~" H 15500 9450 50  0001 C CNN
 	1    15500 9450
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H16
@@ -3487,7 +3479,7 @@ F 1 "M2" H 15300 9605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 9650 50  0001 C CNN
 F 3 "~" H 15200 9650 50  0001 C CNN
 	1    15200 9650
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H18
@@ -3498,7 +3490,7 @@ F 1 "M2" H 15900 9605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15800 9650 50  0001 C CNN
 F 3 "~" H 15800 9650 50  0001 C CNN
 	1    15800 9650
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H17
@@ -3509,7 +3501,7 @@ F 1 "M2" H 15600 9605 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 9650 50  0001 C CNN
 F 3 "~" H 15500 9650 50  0001 C CNN
 	1    15500 9650
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H19
@@ -3520,7 +3512,7 @@ F 1 "M2" H 15300 9805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15200 9850 50  0001 C CNN
 F 3 "~" H 15200 9850 50  0001 C CNN
 	1    15200 9850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H20
@@ -3531,7 +3523,7 @@ F 1 "M2" H 15600 9805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 15500 9850 50  0001 C CNN
 F 3 "~" H 15500 9850 50  0001 C CNN
 	1    15500 9850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Interface_Expansion:MCP23017_SP U2
@@ -3542,7 +3534,7 @@ F 1 "MCP23017_SP" H 2600 8600 50  0000 L CNN
 F 2 "Package_DIP:DIP-28_W7.62mm" H 2375 8625 50  0001 L CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 2375 8525 50  0001 L CNN
 	1    2175 9625
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 NoConn ~ 1475 9425
 Text Label 2975 9725 0    50   ~ 10
@@ -3597,7 +3589,7 @@ F 1 "75R" V 3075 1725 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3075 1725 50  0001 C CNN
 F 3 "~" H 3075 1725 50  0001 C CNN
 	1    3075 1725
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small R2
@@ -3608,7 +3600,7 @@ F 1 "75R" V 3075 1625 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3075 1625 50  0001 C CNN
 F 3 "~" H 3075 1625 50  0001 C CNN
 	1    3075 1625
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 Wire Wire Line
 	3175 1725 3375 1725
@@ -3626,7 +3618,7 @@ F 1 "+5V" H 2975 1625 50  0000 C CNN
 F 2 "" H 2875 1575 50  0001 C CNN
 F 3 "" H 2875 1575 50  0001 C CNN
 	1    2875 1575
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R1
@@ -3637,7 +3629,7 @@ F 1 "1.5k" V 2775 1575 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2775 1575 50  0001 C CNN
 F 3 "~" H 2775 1575 50  0001 C CNN
 	1    2775 1575
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR06
@@ -3648,7 +3640,7 @@ F 1 "GND" H 2380 2252 50  0000 C CNN
 F 2 "" H 2375 2425 50  0001 C CNN
 F 3 "" H 2375 2425 50  0001 C CNN
 	1    2375 2425
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Connection ~ 2375 2125
 Wire Wire Line
@@ -3670,7 +3662,7 @@ F 1 "3.6V" V 2720 1993 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 2675 1925 50  0001 C CNN
 F 3 "~" V 2675 1925 50  0001 C CNN
 	1    2675 1925
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:D_Schottky_Small D85
@@ -3681,7 +3673,7 @@ F 1 "3.6V" V 2420 1993 50  0000 L CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" V 2375 1925 50  0001 C CNN
 F 3 "~" V 2375 1925 50  0001 C CNN
 	1    2375 1925
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 Text Label 3375 1725 0    50   ~ 10
 USB_D-
@@ -3704,7 +3696,7 @@ F 3 "" H 1825 1725 50  0001 L BNN
 F 4 "A" H 1825 1725 50  0001 L BNN "Field4"
 F 5 "Global Connector Technology" H 1825 1725 50  0001 L BNN "Field5"
 	1    1825 1725
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $Comp
 L power:PWR_FLAG #FLG02
@@ -3715,15 +3707,15 @@ F 1 "PWR_FLAG" H 2525 1204 25  0000 C CNN
 F 2 "" H 2525 1075 50  0000 C CNN
 F 3 "" H 2525 1075 50  0000 C CNN
 	1    2525 1075
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2675 875  2675 825
-Connection ~ 2675 875
+	2675 875  2675 825 
+Connection ~ 2675 875 
 Wire Wire Line
-	2875 875  2875 775
+	2875 875  2875 775 
 Wire Wire Line
-	2675 875  2875 875
+	2675 875  2875 875 
 $Comp
 L power:PWR_FLAG #FLG01
 U 1 1 5C0E2658
@@ -3732,8 +3724,8 @@ F 0 "#FLG01" H 2875 825 25  0001 C CNN
 F 1 "PWR_FLAG" H 2875 904 25  0000 C CNN
 F 2 "" H 2875 775 50  0000 C CNN
 F 3 "" H 2875 775 50  0000 C CNN
-	1    2875 775
-	1    0    0    -1
+	1    2875 775 
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR02
@@ -3743,11 +3735,11 @@ F 0 "#PWR02" H 2675 675 50  0001 C CNN
 F 1 "+5V" H 2690 998 50  0000 C CNN
 F 2 "" H 2675 825 50  0001 C CNN
 F 3 "" H 2675 825 50  0001 C CNN
-	1    2675 825
-	1    0    0    -1
+	1    2675 825 
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2675 925  2675 875
+	2675 925  2675 875 
 $Comp
 L Device:Polyfuse_Small F1
 U 1 1 5C24FB09
@@ -3757,7 +3749,7 @@ F 1 "0.1A" H 2607 1070 50  0000 R CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 2725 825 50  0001 L CNN
 F 3 "~" H 2675 1025 50  0001 C CNN
 	1    2675 1025
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	2125 1625 2175 1625
@@ -3778,7 +3770,7 @@ F 1 "5.1k" V 3075 1425 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3075 1425 50  0001 C CNN
 F 3 "~" H 3075 1425 50  0001 C CNN
 	1    3075 1425
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R_Small R9
@@ -3789,7 +3781,7 @@ F 1 "5.1k" V 3075 1325 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 3075 1325 50  0001 C CNN
 F 3 "~" H 3075 1325 50  0001 C CNN
 	1    3075 1325
-	0    1    1    0
+	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR0101
@@ -3800,7 +3792,7 @@ F 1 "GND" H 3450 1375 50  0000 C CNN
 F 2 "" H 3300 1425 50  0001 C CNN
 F 3 "" H 3300 1425 50  0001 C CNN
 	1    3300 1425
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	3175 1425 3300 1425
@@ -3822,7 +3814,7 @@ F 1 "GND" H 2175 2250 50  0000 C CNN
 F 2 "" H 2175 2425 50  0001 C CNN
 F 3 "" H 2175 2425 50  0001 C CNN
 	1    2175 2425
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2175 2425 2175 2325
@@ -3901,7 +3893,7 @@ F 1 "BOOT" H 4175 5819 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_PUSH_6mm" H 4175 5825 50  0001 C CNN
 F 3 "" H 4175 5825 50  0001 C CNN
 	1    4175 5625
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW91
@@ -3912,7 +3904,7 @@ F 1 "RESET" H 4175 5219 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_PUSH_6mm" H 4175 5225 50  0001 C CNN
 F 3 "" H 4175 5225 50  0001 C CNN
 	1    4175 5025
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L Device:LED_Small LED1
@@ -3923,6 +3915,6 @@ F 1 "CAPLOCK" H 4175 6569 50  0000 C CNN
 F 2 "LED_THT:LED_D3.0mm_Clear" V 4175 6425 50  0001 C CNN
 F 3 "~" V 4175 6425 50  0001 C CNN
 	1    4175 6425
-	-1   0    0    -1
+	-1   0    0    -1  
 $EndComp
 $EndSCHEMATC
